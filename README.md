@@ -1,1 +1,3 @@
-# info-theoretic-DAE
+# information-theoretic analysis of an autoencoder-based communication system
+
+We present an information-theoretic analysis of an autoencoder-based communication system designed for joint source-channel coding. By integrating deep learning with classical communication theory, the system learns to compress and transmit discrete messages over noisy channels while mitigating error through robust latent representations. Our study evaluates the mutual information dynamics, block error rate (BLER) performance, and causal state reconstruction during training, comparing the autoencoder’s performance with that of a traditional Hamming (7,4) code. These insights illustrate how physical constraints—such as noise and power limitations—shape the internal information flow, and they underscore potential pathways for enhancing communication system designs using information-theoretic tools.
